@@ -1,1 +1,1 @@
-# Lightning Talk
+# Templates of Lightning Talk
